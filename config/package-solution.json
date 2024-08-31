@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "site-creation-client-side-solution",
+    "id": "90535bd5-98f2-48dd-93e9-f0e6f9ba4c23",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/site-creation.sppkg"
+  }
+}
